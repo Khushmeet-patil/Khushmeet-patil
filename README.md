@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Engineering @ MBIT, Gujarat (CGPA: 9.66/10)
+- 🎓 Computer Engineering @ MBIT, Gujarat (CGPA: 9.4)
 - 💼 Flutter Developer Intern at AppCity (GetWebzy)
 - 🤖 Generative AI Intern @ 1M1B (LLaMA, Gemini, Prompt Engineering)
 - 🧠 Passionate about AI, LLMs, IoT, and scalable product development
