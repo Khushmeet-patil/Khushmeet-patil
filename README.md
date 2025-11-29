@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey there! I'm Khushmeet Anil Patil
+# 👋 Hey there! I'm Khushmeet Patil
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+%26+Mobile+App+Developer;AI%2FML+Enthusiast+%7C+IoT+Innovator;Building+Intelligent+Solutions+for+Tomorrow" alt="Typing SVG" />
 
