@@ -209,22 +209,6 @@ Comprehensive inventory solution with:
 
 ---
 
-## 🏆 Achievements & Hackathons
-
-<div align="center">
-
-| 🎯 Event | 🏅 Achievement | 📅 Date |
-|---------|---------------|---------|
-| **Hack This Fall 2024** | 🥇 Healthcare Innovation Award | Dec 2024 |
-| **Hackout 2024** | 🎖️ Finalist (Top 10/120+ teams) | Sep 2024 |
-| **CU Edunet Innovation Marathon** | 👨‍💼 Team Leader - CodeTalk AI | Mar 2025 |
-| **TIC TAC TOE 2025** | 🔗 Integration Specialist | Apr 2025 |
-| **BBIC 2025 - SEMCOM** | 💼 Business Idea Presentation | Feb 2025 |
-
-</div>
-
----
-
 ## 💼 Professional Experience
 
 <table>
